@@ -1,0 +1,493 @@
+[{
+  "_id": {
+    "$oid": "65c4dae2a22ea6889496c2de"
+  },
+  "email": "chuchi@gmail.com",
+  "order_data": [
+    [
+      {
+        "Order_date": "Thu Feb 08 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Thu Feb 08 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      },
+      {
+        "id": "65b7681e68c000daef8895ac",
+        "name": "Prawns Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 120
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ]
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c4dc58a22ea6889496c2e7"
+  },
+  "email": "ranju@gmail.com",
+  "order_data": [
+    [
+      {
+        "Order_date": "Thu Feb 08 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Mon Feb 26 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Mar 05 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895aa",
+        "name": "Chicken Biryani",
+        "qty": 1,
+        "size": "full",
+        "price": 300
+      }
+    ]
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c4dfc3a22ea6889496c2ee"
+  },
+  "email": "random@gmail.com",
+  "order_data": [
+    [
+      {
+        "Order_date": "Thu Feb 08 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 5,
+        "size": "half",
+        "price": 550
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": "5",
+        "size": "half",
+        "price": 1000
+      },
+      {
+        "id": "65b7681e68c000daef8895ac",
+        "name": "Prawns Fried Rice",
+        "qty": "2",
+        "size": "half",
+        "price": 240
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895ae",
+        "name": "Paneer 65",
+        "qty": 1,
+        "size": "half",
+        "price": 150
+      },
+      {
+        "id": "65b7681e68c000daef8895af",
+        "name": "Chicken Tikka",
+        "qty": 1,
+        "size": "half",
+        "price": 170
+      }
+    ]
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c5f9273da242b0de257ddc"
+  },
+  "email": "react@gmail.com",
+  "order_data": [
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a9",
+        "name": "Fish Biryani",
+        "qty": 1,
+        "size": "half",
+        "price": 200
+      }
+    ],
+    [
+      {
+        "Order_date": "Fri Feb 09 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Mon Feb 12 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ]
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65caea6ed25bae7c847fa6aa"
+  },
+  "email": "Yamma@yahoo.com",
+  "order_data": [
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "full",
+        "price": 200
+      },
+      {
+        "id": "65b7681e68c000daef8895b0",
+        "name": "Paneer Tikka",
+        "qty": 1,
+        "size": "half",
+        "price": 170
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ],
+    [
+      {
+        "Order_date": "Tue Feb 13 2024"
+      },
+      {
+        "id": "65b7681e68c000daef8895a8",
+        "name": "Veg Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 110
+      },
+      {
+        "id": "65b7681e68c000daef8895a7",
+        "name": "Chicken Fried Rice",
+        "qty": 1,
+        "size": "half",
+        "price": 130
+      }
+    ]
+  ],
+  "__v": 0
+}]
