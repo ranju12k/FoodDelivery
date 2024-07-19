@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# Food Delivery App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Folder Structure](#folder-structure)
+- [Contributing](#contributing)
+- [ScreenShots](#screenshots)
 
-## Available Scripts
+## Introduction
+Food Delivery App is a full-stack web application that allows users to register, log in, browse food items by category, place orders, and generate invoices. The app is built with React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database.
 
-In the project directory, you can run:
+## Features
+- User Authentication (Sign Up & Log In)
+- Browse Food Items by Category
+- Place Food Orders
+- Search for Specific Categories of Food
 
-### `npm start`
+## Technologies Used
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Other:** Mongoose (for MongoDB object modeling), JWT (for authentication), Axios (for making HTTP requests)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/food-delivery-app.git
+   cd food-delivery-app
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Install dependencies:**
+   # For backend
+    cd backend
+    npm install
+    
+    # For frontend
+    cd ../frontend
+    npm install
 
-### `npm test`
+3. **Set up environment variables:**
+  MONGODB_URI=mongodb://localhost:27017/fooddelivery
+  JWT_SECRET=your_jwt_secret
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Run the application:**
 
-### `npm run build`
+    # Start backend server
+    cd backend
+    npm start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  # Start frontend development server
+  cd ../frontend
+  npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## usage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Register an account by navigating to the Sign Up page.
+Log in with your credentials.
+Browse food items by category.
+Place an order by adding items to your cart and proceeding to checkout.
+Generate an invoice for your order.
+Search for specific categories of food using the search feature.
 
-### `npm run eject`
+## contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**HOME PAGE:**![image](https://github.com/user-attachments/assets/434a3d3c-061a-42e5-b2eb-a2d72af3e4b4)
+**Login PAGE:**![image](https://github.com/user-attachments/assets/6ba971ea-908b-4d50-b096-5f853e196b55)
+**SIGN-UP PAGE:**![image](https://github.com/user-attachments/assets/bce20bb4-bc1a-4fed-bd22-96b783c2072e)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+     
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
